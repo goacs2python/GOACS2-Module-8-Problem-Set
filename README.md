@@ -1,6 +1,16 @@
-# Module 5 Individual Problem Set
+# Module 8 Problem Set
 
-Please complete one problem from the Module 5 Problem Set. The other problem will be completed with the help of a partner.
+Please complete two problems from the Module 8 Problem Set.
+
+## SPECIAL INSTRUCTIONS
+
+Add a file named `config.py` and store your API keys in variables within this file.
+
+Add an `import config` to the top of your programs in order to use the API key. This will prevent the API key from being published to the web. You can then use the API key in your file by accessing the variable inside the config module, for example `config.my_api_key`.
+
+
+When using the requests library, you might need to `pip install requests`. If your computer complains about permissions, try installing for the user using `python -m pip install -user requests` on Windows or `pip install --user requests` on Mac.
+
 
 ---
 
